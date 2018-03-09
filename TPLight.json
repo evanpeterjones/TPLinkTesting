@@ -1,0 +1,8 @@
+{"system" :
+  {
+
+
+    "get_sysinfo" : null},
+    "emeter" :
+  {"get_realtime" : null}
+}

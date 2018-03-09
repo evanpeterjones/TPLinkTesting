@@ -1,0 +1,3 @@
+import TPLink
+
+TPLink.scan()
